@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
-.ordered li{
+ol li{
 	font-weight: bold;
 }
-.unordered li{
+ul li{
 	font-style: italic;
 }
