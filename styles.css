@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
-ol li{
-	text-emphasis: bold;
+.ordered li{
+	font-weight: bold;
 }
-ul li{
-	text-emphasis: italic;
+.unordered li{
+	font-style: italic;
 }
